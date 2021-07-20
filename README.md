@@ -1,6 +1,6 @@
 # Marketing-Analytics
 
-INTRODUCTION
+# INTRODUCTION:
 This notebook contains data on the implementation of marketing to customers. We create reports and analyze them to know the actionable insight into decision making purpose.
 
 Now, build some insight questions may helpful for our works in understanding the data through univariate and multivariate analysis.
